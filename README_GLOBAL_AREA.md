@@ -47,11 +47,11 @@ Le projet est composé de :
 - Emeric AMEGAH  
 
 ### Backend
-(à compléter selon votre équipe)
+- Darren HOUNSA
+- Hilary ZOCLI
 
 ### Mobile
-(à compléter selon votre équipe)
-
+- Wakil KARIMOU
 ---
 
 ## 3. Architecture globale
